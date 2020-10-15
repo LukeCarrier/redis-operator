@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  redisoperator:
+  - apiVersion: v1
+    created: "2020-10-15T17:49:08.2155586Z"
+    description: A Helm chart for the Spotahome Redis Operator
+    digest: ecc3f961f7e7f37d025daafffdef1955eb2008bb74d384f2f54478b67d95802a
+    name: redisoperator
+    urls:
+    - https://github.com/LukeCarrier/redis-operator/releases/download/redisoperator-3.1.1/redisoperator-3.1.1.tgz
+    version: 3.1.1
+generated: "2020-10-15T17:49:08.116764167Z"
